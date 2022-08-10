@@ -1,1 +1,2 @@
-puts 160
+num = 5
+puts num
