@@ -1,2 +1,2 @@
-num = 5
+num = gets.chomp
 puts num
